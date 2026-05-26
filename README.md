@@ -15,6 +15,16 @@
 
 ---
 
+## 🖼️ Screenshots
+
+Key screens from the live demo:
+
+![Dashboard](assets/images/dashboard.png)
+![Invoices](assets/images/invoices-page.png)
+![Clients](assets/images/clients-page.png)
+
+---
+
 ## 💼 What is Invoice Manager?
 
 Invoice Manager is a comprehensive solution for businesses to create, manage, and track invoices, quotes, payments, and refunds. Built with modern web technologies, it provides a seamless user experience combined with enterprise-grade security and reliability.

@@ -1,0 +1,66 @@
+# Showcase Repository Configuration
+# This repository contains documentation and showcase materials only
+
+# Keep only documentation
+*.md
+.github/
+.gitignore
+.gitattributes
+LICENSE
+
+# Exclude all source code
+api/
+app/
+src/
+prisma/
+scripts/
+public/
+dist/
+build/
+node_modules/
+
+# Exclude build artifacts
+*.js
+*.ts
+!*.d.ts
+*.jsx
+*.tsx
+.next/
+.vite/
+.vercel/
+out/
+
+# Exclude dependencies
+package-lock.json
+bun.lockb
+yarn.lock
+pnpm-lock.yaml
+
+# Exclude environment files
+.env
+.env.local
+.env.*.local
+
+# Exclude IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Exclude logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Exclude test coverage
+coverage/
+.nyc_output/
+
+# Exclude temporary files
+tmp/
+temp/
+*.tmp
