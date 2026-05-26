@@ -1,48 +1,14 @@
-# Contribu to Invoice Manager
+# Business Inquiries Only
 
-We appreciate your interest in Invoice Manager! This is a showcase repository, so contributions are primarily in the form of:
+Thank you for visiting this showcase. This repository is intended for presenting the product to potential clients and partners — not for open-source contributions or testing.
 
-- 🐛 **Bug Reports** - Found an issue? Let us know!
-- 💡 **Feature Suggestions** - Have an idea? We'd love to hear it!
-- 📝 **Documentation** - Help improve our docs
-- 🌍 **Translations** - Expand language support
-- ⭐ **Questions** - Help fellow users in discussions
+If you're interested in hiring development, customization, deployment, or a white-label solution based on Invoice Manager, please contact me with:
+- A short description of your business
+- What you need (deployment, customization, integrations)
+- Preferred timeline and budget (if known)
 
----
+Contact options:
+- Email: zakaria@example.com
+- Live demo: http://app.ifry.ma/
 
-## How to Contribute
-
-### Reporting Issues
-1. Check existing issues first
-2. Provide clear reproduction steps
-3. Include your environment details
-4. Add screenshots if applicable
-
-### Suggesting Features
-1. Describe the use case
-2. Explain the expected behavior
-3. Show examples if possible
-4. Consider the impact on other features
-
-### Improving Documentation
-1. Identify unclear sections
-2. Suggest improvements
-3. Share examples
-4. Fix typos and errors
-
----
-
-## Code of Conduct
-
-- Be respectful and constructive
-- Provide helpful feedback
-- Ask questions politely
-- Support the community
-
----
-
-## Questions?
-
-Check out the [documentation](README.md) or try the [live demo](http://app.ifry.ma/).
-
-Thank you for your interest in Invoice Manager! 🙏
+I will respond with a proposal and next steps. Thank you — I look forward to working with serious clients.
