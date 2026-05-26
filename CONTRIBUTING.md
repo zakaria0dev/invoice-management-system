@@ -8,7 +8,8 @@ If you're interested in hiring development, customization, deployment, or a whit
 - Preferred timeline and budget (if known)
 
 Contact options:
-- Email: zakaria@example.com
+- Email: zakariaelmofaddal06@gmail.com
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/893556934886699049)
 - Live demo: http://app.ifry.ma/
 
 I will respond with a proposal and next steps. Thank you — I look forward to working with serious clients.
