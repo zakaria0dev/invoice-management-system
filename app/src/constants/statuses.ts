@@ -1,0 +1,24 @@
+export const INVOICE_STATUS = {
+    DRAFT: 'DRAFT',
+    SENT: 'SENT',
+    PAID: 'PAID',
+    PARTIALLY_PAID: 'PARTIALLY_PAID',
+    OVERDUE: 'OVERDUE',
+    CANCELLED: 'CANCELLED',
+    REFUNDED: 'REFUNDED',
+    PARTIALLY_REFUNDED: 'PARTIALLY_REFUNDED',
+    CREDITED: 'CREDITED',
+    SETTLED_WITH_RETURNS: 'SETTLED_WITH_RETURNS',
+} as const;
+
+export const QUOTE_STATUS = {
+    DRAFT: 'DRAFT',
+    SENT: 'SENT',
+    VALIDATED: 'VALIDATED',
+    REJECTED: 'REJECTED',
+    CONVERTED: 'CONVERTED',
+    CANCELLED: 'CANCELLED',
+} as const;
+
+export type InvoiceStatus = keyof typeof INVOICE_STATUS;
+export type QuoteStatus = keyof typeof QUOTE_STATUS;
