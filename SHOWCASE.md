@@ -4,6 +4,14 @@
 
 **Live Demo:** [http://app.ifry.ma/](http://app.ifry.ma/)
 
+## 🖼️ Screenshots
+
+Dashboard and key screens from the live application:
+
+![Dashboard](assets/images/dashboard.png)
+![Invoices](assets/images/invoices page.png)
+![Clients](assets/images/clients page.png)
+
 ---
 
 ## 🎯 Overview
